@@ -16,7 +16,8 @@ With the help of conditions you can execute parts of code if requirements are me
 A useful predefined function would be one returning random numbers. Well here you go, **random** does just that and all languages have an equivalent.
 
 Example
-``` This algorithm will output "Yes, I am John Doe."
+``` 
+// This algorithm will output "Yes, I am John Doe."
 constant NAME = "John Doe"
 if ($NAME == "John Doe") then {
 	output("Yes, I am $NAME.")
@@ -40,7 +41,8 @@ I will be using [Python3](https://repl.it/languages/python3) to write and test t
 I - cinema tariffs
 - [x] In a cinema the full tariff is 10 €, the reduced one is 8 €. Write an algorithm which given a boolean indicating if the person can have a reduced tariff prints the price to pay.
 
-```reduced=input("Can you have a reduced tariff? (y/n):")
+```
+reduced=input("Can you have a reduced tariff? (y/n):")
 if reduced=="y":
     reduced=True
 else:
@@ -55,7 +57,8 @@ else:
 II - maximum
 - [x] Write an algorithm which given 3 numbers finds the maximum.
 
-```number1=float(input("Enter your first number:"))
+```
+number1=float(input("Enter your first number:"))
 number2=float(input("Enter your second number:"))
 number3=float(input("Enter your third number:"))
 
@@ -73,7 +76,8 @@ print("The maximum number is:",maximum)
 III - identical dice
 - [x] Write an algorithm which throws 3 dices and finds out the number of identical value, three, two or none.
 
-```import random
+```
+import random
 dice1=random.randint(1,6)
 dice2=random.randint(1,6)
 dice3=random.randint(1,6)
@@ -92,7 +96,8 @@ print("Number of identical value:", identical)
 IV - day’s number
 - [x] Write an algorithm which given the number of a day returns its name.
 
-```number=int(input("Please enter the number of a day (1-7):"))
+```
+number=int(input("Please enter the number of a day (1-7):"))
 if number == 1:
     day="Monday"
 elif number == 2:
@@ -116,7 +121,8 @@ print("The name of that day is:",day)
 V - print shop
 - [x] A print shop charges 0.12 € the ten first copy, 0.11 € the next 20 and 0.10 € from there. Write an algorithm which given a number of copies and calculates the price.
 
-```copies=int(input("Please enter number of copies:"))
+```
+copies=int(input("Please enter number of copies:"))
 ten=10
 twenty=0
 rest=0
