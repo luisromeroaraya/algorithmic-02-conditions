@@ -13,7 +13,7 @@ This challenge will have you play around with the concept of [conditions](https:
 
 With the help of conditions you can execute parts of code if requirements are met. It allows you to create program with different outcome depending on the input.
 
-A useful predefined function would be one returning random numbers. Well here you go, random does just that and all languages have an equivalent.
+A useful predefined function would be one returning random numbers. Well here you go, **random** does just that and all languages have an equivalent.
 
 Example
 ``` This algorithm will output "Yes, I am John Doe."
