@@ -36,7 +36,7 @@ Instructions
 * detail each and every step
 * indicates the types of used variables
 
-I will be using [Python3](https://repl.it/languages/python3) to write and test the algorithms
+*I will be using [Python3](https://repl.it/languages/python3) to write and test the algorithms*
 
 I - cinema tariffs
 - [x] In a cinema the full tariff is 10 €, the reduced one is 8 €. Write an algorithm which given a boolean indicating if the person can have a reduced tariff prints the price to pay.
