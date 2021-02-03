@@ -1,7 +1,7 @@
 # Conditions
-* Type of challenge: learning
-* Duration: 60 min
-* Team challenge: solo
+* Type of challenge: **learning**
+* Duration: **60 min**
+* Team challenge: **solo**
 
 ## Learning objectives
 At the end of this challenge you should:
