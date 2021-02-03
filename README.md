@@ -9,7 +9,7 @@ At the end of this challenge you should:
 * be able to write conditions
 
 ## The mission
-This challenge will have you play around with the concept of conditions, complete the exercises down below after you’ve read the explanations.
+This challenge will have you play around with the concept of [conditions](https://en.wikipedia.org/wiki/Conditional_(computer_programming)), complete the exercises down below after you’ve read the explanations.
 
 With the help of conditions you can execute parts of code if requirements are met. It allows you to create program with different outcome depending on the input.
 
