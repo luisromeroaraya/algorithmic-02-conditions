@@ -58,9 +58,9 @@ II - maximum
 - [x] Write an algorithm which given 3 numbers finds the maximum.
 
 ```
-number1=float(input("Enter your first number:"))
-number2=float(input("Enter your second number:"))
-number3=float(input("Enter your third number:"))
+number1=int(input("Enter your first number:"))
+number2=int(input("Enter your second number:"))
+number3=int(input("Enter your third number:"))
 
 if number1 >= number2:
     maximum=number1
