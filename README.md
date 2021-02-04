@@ -1,4 +1,4 @@
-# Conditions
+# [Conditions](https://github.com/becodeorg/BXL-Swartz-4-27/blob/master/1.The-Field/7.Algorithmic/02-conditions.adoc)
 * Type of challenge: **learning**
 * Duration: **60 min**
 * Team challenge: **solo**
@@ -40,7 +40,6 @@ Instructions
 
 I - cinema tariffs
 - [x] In a cinema the full tariff is 10 €, the reduced one is 8 €. Write an algorithm which given a boolean indicating if the person can have a reduced tariff prints the price to pay.
-
 ```
 reduced=input("Can you have a reduced tariff? (y/n):")
 if reduced=="y":
@@ -56,7 +55,6 @@ else:
 
 II - maximum
 - [x] Write an algorithm which given 3 numbers finds the maximum.
-
 ```
 number1=int(input("Enter your first number:"))
 number2=int(input("Enter your second number:"))
@@ -75,7 +73,6 @@ print("The maximum number is:",maximum)
 
 III - identical dice
 - [x] Write an algorithm which throws 3 dices and finds out the number of identical value, three, two or none.
-
 ```
 import random
 dice1=random.randint(1,6)
@@ -95,7 +92,6 @@ print("Number of identical value:", identical)
 
 IV - day’s number
 - [x] Write an algorithm which given the number of a day returns its name.
-
 ```
 number=int(input("Please enter the number of a day (1-7):"))
 if number == 1:
@@ -120,7 +116,6 @@ print("The name of that day is:",day)
 
 V - print shop
 - [x] A print shop charges 0.12 € the ten first copy, 0.11 € the next 20 and 0.10 € from there. Write an algorithm which given a number of copies and calculates the price.
-
 ```
 copies=int(input("Please enter number of copies:"))
 ten=10
